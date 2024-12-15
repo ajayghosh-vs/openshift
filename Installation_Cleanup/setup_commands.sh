@@ -25,7 +25,6 @@ export PATH="~/.crc/bin/oc:$PATH"
 
 # Run the below commds if the cluster not able to reach the kubeserver
 
-
 crc delete -f
 crc cleanup
 crc delete -f
