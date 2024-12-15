@@ -32,6 +32,3 @@ crc delete -f
 crc setup
 crc start
 
-
-git config --global user.email "vsajay6165@gmail.com"
-git config --global user.name "ajayghosh-vs"
